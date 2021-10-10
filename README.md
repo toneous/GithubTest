@@ -1,2 +1,1 @@
-# GithubTest
-This is my first trial with Version Control
+Trying to testrun react app project
